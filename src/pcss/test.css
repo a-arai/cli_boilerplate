@@ -1,6 +1,6 @@
-@import "/module/hoge.pcss";
+@import "/module/common.css";
 
-.hoge {
+.fuga {
     background-color: #000;
     &__fuga {
         background-color: #eee;
@@ -8,7 +8,7 @@
             font-size: 60px;
         }
     }
-    .piyo {
+    .moge {
         font-size:20px;
     }
 }

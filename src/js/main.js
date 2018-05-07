@@ -1,2 +1,2 @@
 import hello from './hello.js';
-hello('マイケル');
+hello('花子');

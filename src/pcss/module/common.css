@@ -1,9 +1,7 @@
-@import "/module/foo.pcss";
-
 .hoge {
     background-color: #000;
     &__fuga {
-        background-color: #eee;
+        background-color: #fff;
         &_min {
             font-size: 60px;
         }
